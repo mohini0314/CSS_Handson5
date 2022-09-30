@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(239, 239, 69);
+    margin-top: 0px;
+    margin-left: 500px;
+    margin-right: 400px;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+    margin-top: 0px;
+}
+.test{
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    margin-bottom: 30px;
+    background-color: rgb(93, 168, 46);
+    transition-property: all;
+    transition-duration: 2s;
+} 
+.test1:hover{
+    width: 250px;
+}
+.test2:hover{
+    width: 350px;
+    height: 350px;
+}
+.test3:hover{
+    transition-duration: 6s;
+    width: 300px;
+}
+.test4:hover{
+    width: 300px;
+    transition-duration: 1s;
+}
+.test5:hover{
+    transition-duration: 4s;
+    width: 300px;
+}
+.test6:hover{
+    width: 350px;
+    transition-duration: 2s;
+}
+.test7:hover{
+    width: 300px;
+    transition-duration: 3s;
+}
+.text{
+    text-align: center;
+    color: rgb(97, 31, 97);
+    text-decoration: underline;
+}
+
